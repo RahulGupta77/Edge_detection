@@ -19,5 +19,5 @@
 
 
 ## Demo : 
+![demo](https://user-images.githubusercontent.com/63935255/152603419-e441134a-12a1-4bed-8c0b-dc1c2ac02bde.gif)
 
-![demo](https://user-images.githubusercontent.com/63935255/152602794-515af3e4-cd25-4fc4-8757-99937e8a8cfd.gif)
