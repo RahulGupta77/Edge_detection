@@ -1,4 +1,4 @@
-# Edge_detection web app
+# Edge detection web app
 
 ## Edge detection of a given image via OpenCV
 
